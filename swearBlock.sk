@@ -1,0 +1,44 @@
+on load:
+  set {badwords::*} to ".*\b1 man 1 jar\b.*", ".*\b1man1jar\b.*", [... add your own bad words here, I'll not list them for a handful of reasons] and ".*\bxvideos\b.*"
+
+on chat:
+  loop {badwords::*}:
+    if message in lower case matches loop-value:
+      set {_badwordList::*} to loop-value split at "\b"
+      add {_badwordList::2} to {_badwordDisplay::*}
+      replace {_badwordList::2} in message with "♥♥♥♥"
+  if amount of {_badwordList::*} > 0:
+    send "&fYou can't say &c%{_badwordDisplay::*}% &fon this server. It has been replaced." to player
+    log "%event-player% tried to say the following words in chat: %{_badwordDisplay::*}%." to "chatfilter.log"
+
+on inventory click:
+  if event-inventory's type = anvil inventory:
+    loop {badwords::*}:
+      if anvil text input of event-inventory matches loop-value:
+        set {_badwordList::*} to loop-value split at "\b"
+        add {_badwordList::2} to {_badwordDisplay::*}
+        cancel the event
+  if amount of {_badwordList::*} > 0:
+    send "&fYou can't say &c%{_badwordDisplay::*}% &fon this server. The action has been canceled." to player
+    log "%event-player% tried to say the following words in an anvil: %{_badwordDisplay::*}%." to "chatfilter.log"
+
+on command:
+  loop the arguments:
+    loop {badwords::*}:
+      if loop-value-1 matches loop-value-2:
+        set {_badwordList::*} to loop-value-2 split at "\b"
+        add {_badwordList::2} to {_badwordDisplay::*}
+        cancel the event
+  if amount of {_badwordList::*} > 0:
+    send "&fYou can't say &c%{_badwordDisplay::*}% &fon this server. The action has been canceled." to player
+    log "%event-player% tried to say the following words in a command: %{_badwordDisplay::*}%." to "chatfilter.log"
+
+on sign change:
+  loop {badwords::*}:
+    if line 1 or line 2 or line 3 or line 4 matches loop-value:
+      set {_badwordList::*} to loop-value split at "\b"
+      add {_badwordList::2} to {_badwordDisplay::*}
+      cancel the event
+  if amount of {_badwordList::*} > 0:
+    send "&fYou can't say &c%{_badwordDisplay::*}% &fon this server. The action has been canceled." to player
+    log "%event-player% tried to say the following words on a sign: %{_badwordDisplay::*}%." to "chatfilter.log"
