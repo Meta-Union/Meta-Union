@@ -1,15 +1,15 @@
-command /tptoggle:
-  usage: &7Usage: /tptoggle
-  permission: skript.customcommand.tptoggle
+command /tpatoggle:
+  usage: &7Usage: /tpatoggle
+  permission: skript.customcommand.tpatoggle
   trigger:
-    if {tptoggle.%player%} is not set:
-      set {tptoggle.%player%} to false
+    if {tpatoggle.%player%} is not set:
+      set {tpatoggle.%player%} to false
       send "&aYou no longer accept TPA or TPA Here requests"
-    else if {tptoggle.%player%} is false:
-      set {tptoggle.%player%} to true
+    else if {tpatoggle.%player%} is false:
+      set {tpatoggle.%player%} to true
       send "&aYou now accept TPA and TPA Here requests"
-    else if {tptoggle.%player%} is true:
-      set {tptoggle.%player%} to false
+    else if {tpatoggle.%player%} is true:
+      set {tpatoggle.%player%} to false
       send "&aYou no longer accept TPA or TPA Here requests"
 
 command /tpa [<player>]:
@@ -26,8 +26,8 @@ command /tpa [<player>]:
       cancel cooldown
       send "&cYou can't teleport to yourself"
       stop
-    if {tptoggle.%1st arg%} is false:
-      send "&c%1st arg% has turned off TPA requests with '/tptoggle'"
+    if {tpatoggle.%1st arg%} is false:
+      send "&c%1st arg% has turned off TPA requests with '/tpatoggle'"
     else:
       if {tpahereingPlayer.%1st arg%} is set:
         clear {tpahereingPlayer.%1st arg%}
@@ -54,8 +54,8 @@ command /tpahere [<player>]:
       cancel cooldown
       send "&cYou can't teleport to yourself"
       stop
-    if {tptoggle.%1st arg%} is false:
-      send "&c%1st arg% has turned off TPA requests with '/tptoggle'"
+    if {tpatoggle.%1st arg%} is false:
+      send "&c%1st arg% has turned off TPA requests with '/tpatoggle'"
     else:
       if {tpaingPlayer.%1st arg%} is set:
         clear {tpaingPlayer.%1st arg%}
@@ -68,12 +68,12 @@ command /tpahere [<player>]:
         send "&cTPA Here to %1st arg% has timed out"
         clear {tpaingPlayer.%1st arg%}
 
-command /back:
-  usage: &7Usage: /back
-  permission: skript.customcommand.back
+command /tpaback:
+  usage: &7Usage: /tpaback
+  permission: skript.customcommand.tpaback
   trigger:
     if {tpaLocationHistory.%player%::*} is not set:
-      send "&cIt seems you have no location to go back to"
+      send "&cIt seems you have no location to go back to (this only works for TPA, not other ways of teleportation)"
     else:
       teleport player to last element of {tpaLocationHistory.%player%::*}
       remove last element of {tpaLocationHistory.%player%::*} from {tpaLocationHistory.%player%::*}
