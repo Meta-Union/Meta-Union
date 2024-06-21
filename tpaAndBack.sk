@@ -101,7 +101,7 @@ command /tpyes:
         send "&aTPA Here successful" to {tpaingPlayer.%player%}
         clear {tpahereingPlayer.%player%}
       else:
-        send "&c%{tpaingPlayer.%player%}% seems to have gone offline"
+        send "&c%{tpahereingPlayer.%player%}% seems to have gone offline"
     else:
       send "&cIt seems like you don't have a TPA request"
 
