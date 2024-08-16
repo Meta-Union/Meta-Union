@@ -21,7 +21,7 @@ Inside, working:
 
 | Type | Name | Picture | CMD |
 | --- | --- | --- | --- |
-| Wooden sword | Battlestaff | https://imgur.com/0hJY2gO.png | 1001 |
+| Wooden sword | Battlestaff | https://imgur.com/0hJY2gO | 1001 |
 | Stone sword | Battlestaff of Terror | https://imgur.com/9DpMHwO | 1001 |
 | Golden sword | Grave Bane | https://imgur.com/EelRqZh | 1001 |
 | Iron sword | Growing Staff | https://imgur.com/sgHFegu | 1001 |
