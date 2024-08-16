@@ -22,29 +22,29 @@ Inside, working:
 | Type | Name | Picture | CMD |
 | --- | --- | --- | --- |
 | Wooden sword | Battlestaff | ![alt text](https://imgur.com/0hJY2gO.png) | 1001 |
-| Stone sword | Battlestaff of Terror | https://imgur.com/9DpMHwO | 1001 |
-| Golden sword | Grave Bane | https://imgur.com/EelRqZh | 1001 |
-| Iron sword | Growing Staff | https://imgur.com/sgHFegu | 1001 |
-| Iron sword | Broken Sawblade | https://imgur.com/TzEDMKE | 1002 |
-| Iron sword |     |  https://imgur.com/qHe0Tdv  | 1003 |
-| Iron sword | Wide handle Blade | https://imgur.com/IshPVF0 | 1004 |
-| Diamond sword | W1 Sword (personal item) | https://imgur.com/pv9MS1K | 1001 |
-| Diamond sword | Backstabber | https://imgur.com/A15cQvb | 1002 |
-| Diamond sword | Swift Striker | https://imgur.com/S0rwQOL | 1003 |
-| Diamond sword | Mechanized Sawblade | https://imgur.com/KIgcV8x | 1004 |
-| Diamond sword | Nameless Blade | https://imgur.com/i03OXD1 | 1005 |
-| Diamond sword | Fangs of Frost | https://imgur.com/epl04aI | 1006 |
-| Diamond sword | Void Touched Blades | https://imgur.com/FTbZy1K | 1007 |
-| Diamond sword | The Beginning and the End | https://imgur.com/Psoebhb | 1008 |
-| Diamond sword | Obsidian Claymore | https://imgur.com/1UvAgny | 1009 |
-| Diamond sword | The Starless Night | https://imgur.com/T8PkKje | 1010 |
-| Diamond sword | Venom Glaive | https://imgur.com/NPaLE8T | 1011 |
-| Diamond sword | Sinister Sword | https://imgur.com/Zn9RqxU | 1012 |
-| Iron axe | Highland axe | https://imgur.com/KN9oaaY | 1001 |
-| Diamond axe | Firebrand | https://imgur.com/NzjukD8 | 1001 |
-| Golden pickaxe | Encrusted Anchor | https://imgur.com/CvOfjnU | 1001 |
-| Stick | Icicle (personal item) | https://imgur.com/Zw1zM80 | 1001 |
-| Stone shovel | Holy Shovel (personal item) | https://imgur.com/ooFU9iM | 1001 |
+| Stone sword | Battlestaff of Terror | ![alt text](https://imgur.com/9DpMHwO.png) | 1001 |
+| Golden sword | Grave Bane | ![alt text](https://imgur.com/EelRqZh.png) | 1001 |
+| Iron sword | Growing Staff | ![alt text](https://imgur.com/sgHFegu.png) | 1001 |
+| Iron sword | Broken Sawblade | ![alt text](https://imgur.com/TzEDMKE.png) | 1002 |
+| Iron sword |     | ![alt text](https://imgur.com/qHe0Tdv.png) | 1003 |
+| Iron sword | Wide handle Blade | ![alt text](https://imgur.com/IshPVF0.png) | 1004 |
+| Diamond sword | W1 Sword (personal item) | ![alt text](https://imgur.com/pv9MS1K.png) | 1001 |
+| Diamond sword | Backstabber | ![alt text](https://imgur.com/A15cQvb.png) | 1002 |
+| Diamond sword | Swift Striker | ![alt text](https://imgur.com/S0rwQOL.png) | 1003 |
+| Diamond sword | Mechanized Sawblade | ![alt text](https://imgur.com/KIgcV8x.png) | 1004 |
+| Diamond sword | Nameless Blade | ![alt text](https://imgur.com/i03OXD1.png) | 1005 |
+| Diamond sword | Fangs of Frost | ![alt text](https://imgur.com/epl04aI.png) | 1006 |
+| Diamond sword | Void Touched Blades | ![alt text](https://imgur.com/FTbZy1K.png) | 1007 |
+| Diamond sword | The Beginning and the End | ![alt text](https://imgur.com/Psoebhb.png) | 1008 |
+| Diamond sword | Obsidian Claymore | ![alt text](https://imgur.com/1UvAgny.png) | 1009 |
+| Diamond sword | The Starless Night | ![alt text](https://imgur.com/T8PkKje.png) | 1010 |
+| Diamond sword | Venom Glaive | ![alt text](https://imgur.com/NPaLE8T.png) | 1011 |
+| Diamond sword | Sinister Sword | ![alt text](https://imgur.com/Zn9RqxU.png) | 1012 |
+| Iron axe | Highland axe | ![alt text](https://imgur.com/KN9oaaY.png) | 1001 |
+| Diamond axe | Firebrand | ![alt text](https://imgur.com/NzjukD8.png) | 1001 |
+| Golden pickaxe | Encrusted Anchor | ![alt text](https://imgur.com/CvOfjnU.png) | 1001 |
+| Stick | Icicle (personal item) | ![alt text](https://imgur.com/Zw1zM80.png) | 1001 |
+| Stone shovel | Holy Shovel (personal item) | ![alt text](https://imgur.com/ooFU9iM.png) | 1001 |
 
 &nbsp;
 
@@ -52,10 +52,10 @@ Inside, bugged but works:
 
 | Type | Name | Picture | CMD |
 | --- | --- | --- | --- |
-| Iron sword | Bloody Vengeance | https://imgur.com/qHe0Tdv | 1003 |
-| Fishing rod | Steel Rod | https://imgur.com/1Qrdo9K | 1001 |
-| Fishing rod | Ultimate Fishing Rod | https://imgur.com/BInLBZ8 | 1002 |
-| Fishing rod | Sea Rod | https://imgur.com/5LbIeAQ | 1003 |
+| Iron sword | Bloody Vengeance | ![alt text](https://imgur.com/qHe0Tdv.png) | 1003 |
+| Fishing rod | Steel Rod | ![alt text](https://imgur.com/1Qrdo9K.png) | 1001 |
+| Fishing rod | Ultimate Fishing Rod | ![alt text](https://imgur.com/BInLBZ8.png) | 1002 |
+| Fishing rod | Sea Rod | ![alt text](https://imgur.com/5LbIeAQ.png) | 1003 |
 
 &nbsp;
 
