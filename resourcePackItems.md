@@ -21,30 +21,30 @@ Inside, working:
 
 | Type | Name | Picture | CMD |
 | --- | --- | --- | --- |
-| Wooden sword | Battlestaff |  | 1001 |
-| Stone sword | Battlestaff of Terror |  | 1001 |
-| Golden sword | Grave Bane |  | 1001 |
-| Iron sword | Growing Staff |  | 1001 |
-| Iron sword | Broken Sawblade |  | 1002 |
-| Iron sword |     |     | 1003 |
-| Iron sword | Wide handle Blade |  | 1004 |
-| Diamond sword | W1 Sword (personal item) |  | 1001 |
-| Diamond sword | Backstabber |  | 1002 |
-| Diamond sword | Swift Striker |  | 1003 |
-| Diamond sword | Mechanized Sawblade |  | 1004 |
-| Diamond sword | Nameless Blade |  | 1005 |
-| Diamond sword | Fangs of Frost |  | 1006 |
-| Diamond sword | Void Touched Blades |  | 1007 |
-| Diamond sword | The Beginning and the End |  | 1008 |
-| Diamond sword | Obsidian Claymore |  | 1009 |
-| Diamond sword | The Starless Night |  | 1010 |
-| Diamond sword | Venom Glaive |  | 1011 |
-| Diamond sword | Sinister Sword |  | 1012 |
-| Iron axe | Highland axe |  | 1001 |
-| Diamond axe | Firebrand |  | 1001 |
-| Golden pickaxe | Encrusted Anchor |  | 1001 |
-| Stick | Icicle (personal item) |  | 1001 |
-| Stone shovel | Holy Shovel (personal item) |  | 1001 |
+| Wooden sword | Battlestaff | https://imgur.com/0hJY2gO | 1001 |
+| Stone sword | Battlestaff of Terror | https://imgur.com/9DpMHwO | 1001 |
+| Golden sword | Grave Bane | https://imgur.com/EelRqZh | 1001 |
+| Iron sword | Growing Staff | https://imgur.com/sgHFegu | 1001 |
+| Iron sword | Broken Sawblade | https://imgur.com/TzEDMKE | 1002 |
+| Iron sword |     |  https://imgur.com/qHe0Tdv  | 1003 |
+| Iron sword | Wide handle Blade | https://imgur.com/IshPVF0 | 1004 |
+| Diamond sword | W1 Sword (personal item) | https://imgur.com/pv9MS1K | 1001 |
+| Diamond sword | Backstabber | https://imgur.com/A15cQvb | 1002 |
+| Diamond sword | Swift Striker | https://imgur.com/S0rwQOL | 1003 |
+| Diamond sword | Mechanized Sawblade | https://imgur.com/KIgcV8x | 1004 |
+| Diamond sword | Nameless Blade | https://imgur.com/i03OXD1 | 1005 |
+| Diamond sword | Fangs of Frost | https://imgur.com/epl04aI | 1006 |
+| Diamond sword | Void Touched Blades | https://imgur.com/FTbZy1K | 1007 |
+| Diamond sword | The Beginning and the End | https://imgur.com/Psoebhb | 1008 |
+| Diamond sword | Obsidian Claymore | https://imgur.com/1UvAgny | 1009 |
+| Diamond sword | The Starless Night | https://imgur.com/T8PkKje | 1010 |
+| Diamond sword | Venom Glaive | https://imgur.com/NPaLE8T | 1011 |
+| Diamond sword | Sinister Sword | https://imgur.com/Zn9RqxU | 1012 |
+| Iron axe | Highland axe | https://imgur.com/KN9oaaY | 1001 |
+| Diamond axe | Firebrand | https://imgur.com/NzjukD8 | 1001 |
+| Golden pickaxe | Encrusted Anchor | https://imgur.com/CvOfjnU | 1001 |
+| Stick | Icicle (personal item) | https://imgur.com/Zw1zM80 | 1001 |
+| Stone shovel | Holy Shovel (personal item) | https://imgur.com/ooFU9iM | 1001 |
 
 &nbsp;
 
@@ -52,10 +52,10 @@ Inside, bugged but works:
 
 | Type | Name | Picture | CMD |
 | --- | --- | --- | --- |
-| Iron sword | Bloody Vengeance |  | 1003 |
-| Fishing rod | Steel Rod |  | 1001 |
-| Fishing rod | Ultimate Fishing Rod |  | 1002 |
-| Fishing rod | Sea Rod |  | 1003 |
+| Iron sword | Bloody Vengeance | https://imgur.com/qHe0Tdv | 1003 |
+| Fishing rod | Steel Rod | https://imgur.com/1Qrdo9K | 1001 |
+| Fishing rod | Ultimate Fishing Rod | https://imgur.com/BInLBZ8 | 1002 |
+| Fishing rod | Sea Rod | https://imgur.com/5LbIeAQ | 1003 |
 
 &nbsp;
 
