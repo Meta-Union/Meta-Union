@@ -27,7 +27,7 @@ Inside, working:
 | Golden sword | Grave Bane | ![alt text](https://imgur.com/EelRqZh.png) | 1001 |
 | Iron sword | Growing Staff | ![alt text](https://imgur.com/sgHFegu.png) | 1001 |
 | Iron sword | Broken Sawblade | ![alt text](https://imgur.com/TzEDMKE.png) | 1002 |
-| Iron sword |     | ![alt text](https://imgur.com/qHe0Tdv.png) | 1003 |
+| Iron sword | Bloody Vengeance | ![alt text](https://imgur.com/qHe0Tdv.png) | 1003 |
 | Iron sword | Wide handle Blade | ![alt text](https://imgur.com/IshPVF0.png) | 1004 |
 | Diamond sword | W1 Sword (personal item) | ![alt text](https://imgur.com/pv9MS1K.png) | 1001 |
 | Diamond sword | Backstabber | ![alt text](https://imgur.com/A15cQvb.png) | 1002 |
@@ -46,6 +46,9 @@ Inside, working:
 | Golden pickaxe | Encrusted Anchor | ![alt text](https://imgur.com/CvOfjnU.png) | 1001 |
 | Stick | Icicle (personal item) | ![alt text](https://imgur.com/Zw1zM80.png) | 1001 |
 | Stone shovel | Holy Shovel (personal item) | ![alt text](https://imgur.com/ooFU9iM.png) | 1001 |
+| Fishing rod | Steel Rod | ![alt text](https://imgur.com/1Qrdo9K.png) | 1001 |
+| Fishing rod | Ultimate Fishing Rod | ![alt text](https://imgur.com/BInLBZ8.png) | 1002 |
+| Fishing rod | Sea Rod | ![alt text](https://imgur.com/5LbIeAQ.png) | 1003 |
 
 &nbsp;
 
@@ -53,10 +56,6 @@ Inside, bugged but works:
 
 | Type | Name | Picture | CMD |
 | --- | --- | --- | --- |
-| Iron sword | Bloody Vengeance | ![alt text](https://imgur.com/qHe0Tdv.png) | 1003 |
-| Fishing rod | Steel Rod | ![alt text](https://imgur.com/1Qrdo9K.png) | 1001 |
-| Fishing rod | Ultimate Fishing Rod | ![alt text](https://imgur.com/BInLBZ8.png) | 1002 |
-| Fishing rod | Sea Rod | ![alt text](https://imgur.com/5LbIeAQ.png) | 1003 |
 
 &nbsp;
 
