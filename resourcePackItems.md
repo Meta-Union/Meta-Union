@@ -49,6 +49,16 @@ Inside, working:
 | Fishing rod | Steel Rod | ![alt text](https://imgur.com/1Qrdo9K.png) | 1001 |
 | Fishing rod | Ultimate Fishing Rod | ![alt text](https://imgur.com/BInLBZ8.png) | 1002 |
 | Fishing rod | Sea Rod | ![alt text](https://imgur.com/5LbIeAQ.png) | 1003 |
+| Fishing rod | Soul Rod | ![alt text](https://imgur.com/iZgpxZS.png) | 1004 |
+| Fishing rod | Folas's Rod | ![alt text](https://imgur.com/zV216wA.png) | 1005 |
+| Fishing rod | Skeletal Rod | ![alt text](https://imgur.com/RHuso73.png) | 1006 |
+| Fishing rod | Matrix Rod | ![alt text](https://imgur.com/vK7cKt4.png) | 1007 |
+| Fishing rod | Rotten Rod | ![alt text](https://imgur.com/6NRrqb1.png) | 1008 |
+| Fishing rod | Frosted Rod | ![alt text](https://imgur.com/qnwQZLL.png) | 1009 |
+| Fishing rod | Eye of Fishing | ![alt text](https://imgur.com/2qybGtF.png) | 1010 |
+| Fishing rod | Diamond Reinforced Rod | ![alt text](https://imgur.com/j7NLB1a.png) | 1011 |
+| Fishing rod | Blaze Rod | ![alt text](https://imgur.com/lUCyHn3.png) | 1012 |
+| Fishing rod | Celestial Rod | ![alt text](https://imgur.com/agLiHY6.png) | 1013 |
 
 &nbsp;
 
