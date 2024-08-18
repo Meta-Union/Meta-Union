@@ -3,6 +3,7 @@ Custom item visuals
 Extra info:
 
 All Diamond items that can be upgraded to netherite will keep the exact same skin when upgraded.
+Please report all found bugs to IceX2457 or on the github: https://github.com/IceX2457/Meta-Union-resource-pack
 Some of these items are personally requested and added. The explanation on how to get your item added is right beneath this, if you don't need it you can skip over and immidiatly go to the tables beneath the text.
 
 Now how can you yourself get such a special item with special visuals? There are a few steps to get it. Do all these steps in this forum to make sure I see the requests!
