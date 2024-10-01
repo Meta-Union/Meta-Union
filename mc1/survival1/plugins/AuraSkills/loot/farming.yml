@@ -1,0 +1,10 @@
+type: block
+pools:
+  wisdomDiamondHelmet1:
+    base_chance: 0.2
+    loot:
+      - type: item
+        key: wisdomDiamondHelmet1
+        sources: [chorus_flower]
+        weight: 1
+        amount: 1
