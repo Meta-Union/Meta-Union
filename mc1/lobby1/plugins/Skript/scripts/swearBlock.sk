@@ -1,0 +1,44 @@
+on load:
+  set {badwords::*} to ".*\b1 man 1 jar\b.*", ".*\b1man1jar\b.*", ".*\b2 girls 1 cup\b.*", ".*\b2girls1cup\b.*", ".*\banal\b.*", ".*\banus\b.*", ".*\barsehole\b.*", ".*\basshole\b.*", ".*\bball licking\b.*", ".*\bball sucking\b.*", ".*\bball-licking\b.*", ".*\bball-sucking\b.*", ".*\bbang bros\b.*", ".*\bbang bus\b.*", ".*\bbangbros\b.*", ".*\bbangbus\b.*", ".*\bbastard\b.*", ".*\bbdsm\b.*", ".*\bbimbo\b.*", ".*\bbitch\b.*", ".*\bbitches\b.*", ".*\bblack cock\b.*", ".*\bblow job\b.*", ".*\bblow your load\b.*", ".*\bblow-job\b.*", ".*\bblowjob\b.*", ".*\bblue waffle\b.*", ".*\bbluewaffle\b.*", ".*\bbollocks\b.*", ".*\bboner\b.*", ".*\bbukkake\b.*", ".*\bbull shit\b.*", ".*\bbull-shit\b.*", ".*\bbullshit\b.*", ".*\bclit\b.*", ".*\bclitoris\b.*", ".*\bcock\b.*", ".*\bcoon\b.*", ".*\bcoons\b.*", ".*\bcream-pie\b.*", ".*\bcreampie\b.*", ".*\bcum\b.*", ".*\bcum shot\b.*", ".*\bcum shots\b.*", ".*\bcumming\b.*", ".*\bcumshot\b.*", ".*\bcumshots\b.*", ".*\bcunnilingus\b.*", ".*\bcunt\b.*", ".*\bcunts\b.*", ".*\bdeep throat\b.*", ".*\bdeep-throat\b.*", ".*\bdeepthroat\b.*", ".*\bdick\b.*", ".*\bdickgirl\b.*", ".*\bdildo\b.*", ".*\bdildos\b.*", ".*\bdoggie style\b.*", ".*\bdoggie-style\b.*", ".*\bdoggiestyle\b.*", ".*\bdoggy style\b.*", ".*\bdoggy-style\b.*", ".*\bdoggystyle\b.*", ".*\bdominatrix\b.*", ".*\bdouble penetration\b.*", ".*\bejaculate\b.*", ".*\bejaculated\b.*", ".*\bejaculating\b.*", ".*\bejaculation\b.*", ".*\bfag\b.*", ".*\bfagbomb\b.*", ".*\bfaggot\b.*", ".*\bfagot\b.*", ".*\bfisting\b.*", ".*\bfoot job\b.*", ".*\bfoot-job\b.*", ".*\bfootjob\b.*", ".*\bfuck\b.*", ".*\bfucken\b.*", ".*\bfucker\b.*", ".*\bfuckers\b.*", ".*\bfucked\b.*", ".*\bfuckhead\b.*", ".*\bfuckheads\b.*", ".*\bfuckin\b.*", ".*\bfucking\b.*", ".*\bfucks\b.*", ".*\bfucktard\b.*", ".*\bfucktards\b.*", ".*\bfuckwad\b.*", ".*\bfuckwads\b.*", ".*\bfuckwhit\b.*", ".*\bfuckwit\b.*", ".*\bfuckwits\b.*", ".*\bfutanari\b.*", ".*\bgang bang\b.*", ".*\bgangbang\b.*", ".*\bgay\b.*", ".*\bgenitals\b.*", ".*\bgolden shower\b.*", ".*\bgolden showers\b.*", ".*\bgroup sex\b.*", ".*\bhand job\b.*", ".*\bhand-job\b.*", ".*\bhandjob\b.*", ".*\bhentai\b.*", ".*\bincest\b.*", ".*\bintercourse\b.*", ".*\bjack off\b.*", ".*\bjack-off\b.*", ".*\bjizz\b.*", ".*\blesbo\b.*", ".*\blezzie\b.*", ".*\blezzies\b.*", ".*\bmasterb8\b.*", ".*\bmasterbate\b.*", ".*\bmasturb8\b.*", ".*\bmasturbate\b.*", ".*\bmasturbating\b.*", ".*\bmasturbation\b.*", ".*\bmissionary position\b.*", ".*\bnazi\b.*", ".*\bnegro\b.*", ".*\bneonazi\b.*", ".*\bnigga\b.*", ".*\bnigger\b.*", ".*\bniggers\b.*", ".*\bniggas\b.*", ".*\bniggs\b.*", ".*\bone cup two girls\b.*", ".*\bone jar one man\b.*", ".*\bone man one jar\b.*", ".*\borgasm\b.*", ".*\borgasmic\b.*", ".*\borgasms\b.*", ".*\borgy\b.*", ".*\bpaedo bear\b.*", ".*\bpaedobear\b.*", ".*\bpaedophile\b.*", ".*\bpaedophilia\b.*", ".*\bpain slut\b.*", ".*\bpainslut\b.*", ".*\bpedo bear\b.*", ".*\bpedobear\b.*", ".*\bpedophile\b.*", ".*\bpedophilia\b.*", ".*\bpegging\b.*", ".*\bpenis\b.*", ".*\bpiece of shit\b.*", ".*\bpieces of shit\b.*", ".*\bpiss off\b.*", ".*\bpissing\b.*", ".*\bporn\b.*", ".*\bpornhub\b.*", ".*\bporno\b.*", ".*\bpornographic\b.*", ".*\bpornography\b.*", ".*\bpornos\b.*", ".*\bpussy\b.*", ".*\bpussypuncher\b.*", ".*\brape\b.*", ".*\braping\b.*", ".*\brapist\b.*", ".*\breverse cowgirl\b.*", ".*\brimjob\b.*", ".*\brimming\b.*", ".*\bscissoring\b.*", ".*\bsemen\b.*", ".*\bshe male\b.*", ".*\bshe-male\b.*", ".*\bshemale\b.*", ".*\bshit head\b.*", ".*\bshithead\b.*", ".*\bsvastika\b.*", ".*\bswastika\b.*", ".*\bthreesome\b.*", ".*\bthroating\b.*", ".*\btits\b.*", ".*\btwat\b.*", ".*\btwo girls one cup\b.*", ".*\bvagina\b.*", ".*\bviagra\b.*", ".*\bvibrator\b.*", ".*\bwank\b.*", ".*\bwanker\b.*", ".*\bwhite power\b.*", ".*\bwhite-power\b.*", ".*\bwhitepower\b.*", ".*\bwhore\b.*", ".*\bxhamster\b.*", ".*\bxnxx\b.*", ".*\bxtube\b.*" and ".*\bxvideos\b.*"
+
+on chat:
+  loop {badwords::*}:
+    if message in lower case matches loop-value:
+      set {_badwordList::*} to loop-value split at "\b"
+      add {_badwordList::2} to {_badwordDisplay::*}
+      replace {_badwordList::2} in message with "♥♥♥♥"
+  if amount of {_badwordList::*} > 0:
+    send "&fYou can't say &c%{_badwordDisplay::*}% &fon this server. It has been replaced." to player
+    log "%event-player% tried to say the following words in chat: %{_badwordDisplay::*}%." to "chatfilter.log"
+
+on inventory click:
+  if event-inventory's type = anvil inventory:
+    loop {badwords::*}:
+      if anvil text input of event-inventory matches loop-value:
+        set {_badwordList::*} to loop-value split at "\b"
+        add {_badwordList::2} to {_badwordDisplay::*}
+        cancel the event
+  if amount of {_badwordList::*} > 0:
+    send "&fYou can't say &c%{_badwordDisplay::*}% &fon this server. The action has been canceled." to player
+    log "%event-player% tried to say the following words in an anvil: %{_badwordDisplay::*}%." to "chatfilter.log"
+
+on command:
+  loop the arguments:
+    loop {badwords::*}:
+      if loop-value-1 matches loop-value-2:
+        set {_badwordList::*} to loop-value-2 split at "\b"
+        add {_badwordList::2} to {_badwordDisplay::*}
+        cancel the event
+  if amount of {_badwordList::*} > 0:
+    send "&fYou can't say &c%{_badwordDisplay::*}% &fon this server. The action has been canceled." to player
+    log "%event-player% tried to say the following words in a command: %{_badwordDisplay::*}%." to "chatfilter.log"
+
+on sign change:
+  loop {badwords::*}:
+    if line 1 or line 2 or line 3 or line 4 matches loop-value:
+      set {_badwordList::*} to loop-value split at "\b"
+      add {_badwordList::2} to {_badwordDisplay::*}
+      cancel the event
+  if amount of {_badwordList::*} > 0:
+    send "&fYou can't say &c%{_badwordDisplay::*}% &fon this server. The action has been canceled." to player
+    log "%event-player% tried to say the following words on a sign: %{_badwordDisplay::*}%." to "chatfilter.log"
