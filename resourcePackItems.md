@@ -59,6 +59,7 @@ Inside, working:
 | Fishing rod | Diamond Reinforced Rod | ![alt text](https://imgur.com/j7NLB1a.png) | 1011 |
 | Fishing rod | Blaze Rod | ![alt text](https://imgur.com/lUCyHn3.png) | 1012 |
 | Fishing rod | Celestial Rod | ![alt text](https://imgur.com/agLiHY6.png) | 1013 |
+| Poisonous Potato | Cheese Religion | ![alt text](https://imgur.com/yt5q0Uq) | 1001 |
 
 &nbsp;
 
