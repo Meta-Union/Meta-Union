@@ -319,13 +319,13 @@ pools:
       ignore_below: -1
       glow: false
       message: ''
-    - type: item
-      key: luckDiamondBoots1
-      weight: 2
-      amount: 1
-      ignore_below: -1
-      glow: false
-      message: ''
+#    - type: item
+#      key: luckDiamondBoots1
+#      weight: 2
+#      amount: 1
+#      ignore_below: -1
+#      glow: false
+#      message: ''
     - type: command
       weight: 5
       executor: console

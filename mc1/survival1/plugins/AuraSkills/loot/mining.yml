@@ -1,34 +1,34 @@
 type: block
-pools:
-  toughnessdiamondhelmet1:
-    base_chance: 0.1
-    loot:
-      - type: item
-        key: toughnessdiamondhelmet1
-        sources: [redstone_ore, deepslate_redstone_ore]
-        weight: 1
-        amount: 1
-  toughnessdiamondchestplate1:
-    base_chance: 0.3
-    loot:
-      - type: item
-        key: toughnessdiamondchestplate1
-        sources: [nether_gold_ore]
-        weight: 1
-        amount: 1
-  toughnessdiamondleggings1:
-    base_chance: 0.2
-    loot:
-      - type: item
-        key: toughnessdiamondleggings1
-        sources: [gold_ore, deepslate_gold_ore]
-        weight: 1
-        amount: 1
-  toughnessdiamondboots1:
-    base_chance: 10.0
-    loot:
-      - type: item
-        key: toughnessdiamondboots1
-        sources: [emerald_ore, deepslate_emerald_ore]
-        weight: 1
-        amount: 1
+pools: []
+#  toughnessdiamondhelmet1:
+#    base_chance: 0.1
+#    loot:
+#      - type: item
+#        key: toughnessdiamondhelmet1
+#        sources: [redstone_ore, deepslate_redstone_ore]
+#        weight: 1
+#        amount: 1
+#  toughnessdiamondchestplate1:
+#    base_chance: 0.3
+#    loot:
+#      - type: item
+#        key: toughnessdiamondchestplate1
+#        sources: [nether_gold_ore]
+#        weight: 1
+#        amount: 1
+#  toughnessdiamondleggings1:
+#    base_chance: 0.2
+#    loot:
+#      - type: item
+#        key: toughnessdiamondleggings1
+#        sources: [gold_ore, deepslate_gold_ore]
+#        weight: 1
+#        amount: 1
+#  toughnessdiamondboots1:
+#    base_chance: 10.0
+#    loot:
+#      - type: item
+#        key: toughnessdiamondboots1
+#        sources: [emerald_ore, deepslate_emerald_ore]
+#        weight: 1
+#        amount: 1

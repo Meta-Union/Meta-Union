@@ -16,51 +16,51 @@ pools:
         mobs: [piglin_brute]
         weight: 1
         amount: 1
-  wisdomDiamondChestplate1:
-    base_chance: 1.0
-    loot:
-      - type: item
-        key: wisdomDiamondChestplate1
-        mobs: [shulker]
-        weight: 1
-        amount: 1
-  wisdomDiamondLeggings1:
-    base_chance: 0.1
-    loot:
-      - type: item
-        key: wisdomDiamondLeggings1
-        mobs: [enderman]
-        weight: 1
-        amount: 1
-  wisdomDiamondBoots1:
-    base_chance: 2.0
-    loot:
-      - type: item
-        key: wisdomDiamondBoots1
-        mobs: [endermite]
-        weight: 1
-        amount: 1
-  luckDiamondLeggings1:
-    base_chance: 0.2
-    loot:
-      - type: item
-        key: luckDiamondLeggings1
-        mobs: [squid,glow_squid]
-        weight: 1
-        amount: 1
-  luckDiamondHelmet1:
-    base_chance: 0.2
-    loot:
-      - type: item
-        key: luckDiamondHelmet1
-        mobs: [guardian]
-        weight: 1
-        amount: 1
-  luckDiamondChestplate1:
-    base_chance: 0.1
-    loot:
-      - type: item
-        key: luckDiamondChestplate1
-        mobs: [drowned]
-        weight: 1
-        amount: 1
+#  wisdomDiamondChestplate1:
+#    base_chance: 1.0
+#    loot:
+#      - type: item
+#        key: wisdomDiamondChestplate1
+#        mobs: [shulker]
+#        weight: 1
+#        amount: 1
+#  wisdomDiamondLeggings1:
+#    base_chance: 0.1
+#    loot:
+#      - type: item
+#        key: wisdomDiamondLeggings1
+#        mobs: [enderman]
+#        weight: 1
+#        amount: 1
+#  wisdomDiamondBoots1:
+#    base_chance: 2.0
+#    loot:
+#      - type: item
+#        key: wisdomDiamondBoots1
+#        mobs: [endermite]
+#        weight: 1
+#        amount: 1
+#  luckDiamondLeggings1:
+#    base_chance: 0.2
+#    loot:
+#      - type: item
+#        key: luckDiamondLeggings1
+#        mobs: [squid,glow_squid]
+#        weight: 1
+#        amount: 1
+#  luckDiamondHelmet1:
+#    base_chance: 0.2
+#    loot:
+#      - type: item
+#        key: luckDiamondHelmet1
+#        mobs: [guardian]
+#        weight: 1
+#        amount: 1
+#  luckDiamondChestplate1:
+#    base_chance: 0.1
+#    loot:
+#      - type: item
+#        key: luckDiamondChestplate1
+#        mobs: [drowned]
+#        weight: 1
+#        amount: 1
