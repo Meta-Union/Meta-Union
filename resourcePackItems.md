@@ -23,12 +23,16 @@ Inside, working:
 | Type | Name | Picture | CMD |
 | --- | --- | --- | --- |
 | Wooden sword | Battlestaff | ![alt text](https://imgur.com/0hJY2gO.png) | 1001 |
+| Wooden sword | 3D sword | ![alt text](.png) | 1013 |
 | Stone sword | Battlestaff of Terror | ![alt text](https://imgur.com/9DpMHwO.png) | 1001 |
+| Stone sword | 3D sword | ![alt text](.png) | 1013 |
 | Golden sword | Grave Bane | ![alt text](https://imgur.com/EelRqZh.png) | 1001 |
+| Golden sword | 3D sword | ![alt text](.png) | 1013 |
 | Iron sword | Growing Staff | ![alt text](https://imgur.com/sgHFegu.png) | 1001 |
 | Iron sword | Broken Sawblade | ![alt text](https://imgur.com/TzEDMKE.png) | 1002 |
 | Iron sword | Bloody Vengeance | ![alt text](https://imgur.com/qHe0Tdv.png) | 1003 |
 | Iron sword | Wide handle Blade | ![alt text](https://imgur.com/IshPVF0.png) | 1004 |
+| Iron sword | 3D sword | ![alt text](.png) | 1013 |
 | Diamond sword | W1 Sword (personal item) | ![alt text](https://imgur.com/pv9MS1K.png) | 1001 |
 | Diamond sword | Backstabber | ![alt text](https://imgur.com/A15cQvb.png) | 1002 |
 | Diamond sword | Swift Striker | ![alt text](https://imgur.com/S0rwQOL.png) | 1003 |
@@ -41,11 +45,73 @@ Inside, working:
 | Diamond sword | The Starless Night | ![alt text](https://imgur.com/T8PkKje.png) | 1010 |
 | Diamond sword | Venom Glaive | ![alt text](https://imgur.com/NPaLE8T.png) | 1011 |
 | Diamond sword | Sinister Sword | ![alt text](https://imgur.com/Zn9RqxU.png) | 1012 |
+| Diamond sword | 3D sword | ![alt text](.png) | 1013 |
+| Diamond sword | Amethyst sword | ![alt text](.png) | 1014 |
+| Diamond sword | Sword of Honour | ![alt text](.png) | 1015 |
+| Diamond sword | Blaze sword | ![alt text](.png) | 1016 |
+| Diamond sword | Bone sword | ![alt text](.png) | 1017 |
+| Diamond sword | Ender sword | ![alt text](.png) | 1018 |
+| Diamond sword | Honey sword | ![alt text](.png) | 1019 |
+| Diamond sword | Ice sword | ![alt text](.png) | 1020 |
+| Diamond sword | Minty sword | ![alt text](.png) | 1021 |
+| Diamond sword | Ruby sword | ![alt text](.png) | 1022 |
+| Diamond sword | Sculk sword | ![alt text](.png) | 1023 |
+| Diamond sword | Skull sword | ![alt text](.png) | 1024 |
+| Diamond sword | Overgrown sword | ![alt text](.png) | 1025 |
+| Diamond sword | Frozen sword | ![alt text](.png) | 1026 |
 | Iron axe | Highland axe | ![alt text](https://imgur.com/KN9oaaY.png) | 1001 |
 | Diamond axe | Firebrand | ![alt text](https://imgur.com/NzjukD8.png) | 1001 |
+| Diamond axe | Amethyst axe | ![alt text](.png) | 1002 |
+| Diamond axe | Axe of Honour | ![alt text](.png) | 1003 |
+| Diamond axe | Blaze axe | ![alt text](.png) | 1004 |
+| Diamond axe | Bone axe | ![alt text](.png) | 1005 |
+| Diamond axe | Ender axe | ![alt text](.png) | 1006 |
+| Diamond axe | Honey axe | ![alt text](.png) | 1007 |
+| Diamond axe | Ice axe | ![alt text](.png) | 1008 |
+| Diamond axe | Minty axe | ![alt text](.png) | 1009 |
+| Diamond axe | Ruby axe | ![alt text](.png) | 1010 |
+| Diamond axe | Sculk axe | ![alt text](.png) | 1011 |
+| Diamond axe | Skull axe | ![alt text](.png) | 1012 |
+| Diamond axe | Overgrown axe | ![alt text](.png) | 1013 |
+| Diamond hoe | Amethyst hoe | ![alt text](.png) | 1001 |
+| Diamond hoe | Blaze hoe | ![alt text](.png) | 1002 |
+| Diamond hoe | Bone hoe | ![alt text](.png) | 1003 |
+| Diamond hoe | Ender hoe | ![alt text](.png) | 1004 |
+| Diamond hoe | Hoe of Honour | ![alt text](.png) | 1005 |
+| Diamond hoe | Honey hoe | ![alt text](.png) | 1006 |
+| Diamond hoe | Ice hoe | ![alt text](.png) | 1007 |
+| Diamond hoe | Minty hoe | ![alt text](.png) | 1008 |
+| Diamond hoe | Overgrown hoe | ![alt text](.png) | 1009 |
+| Diamond hoe | Ruby hoe | ![alt text](.png) | 1010 |
+| Diamond hoe | Sculk hoe | ![alt text](.png) | 1011 |
+| Diamond hoe | Skull hoe | ![alt text](.png) | 1012 |
 | Golden pickaxe | Encrusted Anchor | ![alt text](https://imgur.com/CvOfjnU.png) | 1001 |
-| Stick | Icicle (personal item) | ![alt text](https://imgur.com/Zw1zM80.png) | 1001 |
+| Diamond pickaxe | Amethyst pickaxe | ![alt text](.png) | 1001 |
+| Diamond pickaxe | Blaze pickaxe | ![alt text](.png) | 1002 |
+| Diamond pickaxe | Bone pickaxe | ![alt text](.png) | 1003 |
+| Diamond pickaxe | Ender pickaxe | ![alt text](.png) | 1004 |
+| Diamond pickaxe | Pickaxe of Honour | ![alt text](.png) | 1005 |
+| Diamond pickaxe | Honey pickaxe | ![alt text](.png) | 1006 |
+| Diamond pickaxe | Ice pickaxe | ![alt text](.png) | 1007 |
+| Diamond pickaxe | Minty pickaxe | ![alt text](.png) | 1008 |
+| Diamond pickaxe | Overgrown pickaxe | ![alt text](.png) | 1009 |
+| Diamond pickaxe | Ruby pickaxe | ![alt text](.png) | 1010 |
+| Diamond pickaxe | Sculk pickaxe | ![alt text](.png) | 1011 |
+| Diamond pickaxe | Skull pickaxe | ![alt text](.png) | 1012 |
 | Stone shovel | Holy Shovel (personal item) | ![alt text](https://imgur.com/ooFU9iM.png) | 1001 |
+| Diamond shovel | Amethyst shovel | ![alt text](.png) | 1001 |
+| Diamond shovel | Blaze shovel | ![alt text](.png) | 1002 |
+| Diamond shovel | Bone shovel | ![alt text](.png) | 1003 |
+| Diamond shovel | Ender shovel | ![alt text](.png) | 1004 |
+| Diamond shovel | Shovel of Honour | ![alt text](.png) | 1005 |
+| Diamond shovel | Honey shovel | ![alt text](.png) | 1006 |
+| Diamond shovel | Ice shovel | ![alt text](.png) | 1007 |
+| Diamond shovel | Minty shovel | ![alt text](.png) | 1008 |
+| Diamond shovel | Overgrown shovel | ![alt text](.png) | 1009 |
+| Diamond shovel | Ruby shovel | ![alt text](.png) | 1010 |
+| Diamond shovel | Sculk shovel | ![alt text](.png) | 1011 |
+| Diamond shovel | Skull shovel | ![alt text](.png) | 1012 |
+| Stick | Icicle (personal item) | ![alt text](https://imgur.com/Zw1zM80.png) | 1001 |
 | Fishing rod | Steel Rod | ![alt text](https://imgur.com/1Qrdo9K.png) | 1001 |
 | Fishing rod | Ultimate Fishing Rod | ![alt text](https://imgur.com/BInLBZ8.png) | 1002 |
 | Fishing rod | Sea Rod | ![alt text](https://imgur.com/5LbIeAQ.png) | 1003 |
@@ -59,6 +125,17 @@ Inside, working:
 | Fishing rod | Diamond Reinforced Rod | ![alt text](https://imgur.com/j7NLB1a.png) | 1011 |
 | Fishing rod | Blaze Rod | ![alt text](https://imgur.com/lUCyHn3.png) | 1012 |
 | Fishing rod | Celestial Rod | ![alt text](https://imgur.com/agLiHY6.png) | 1013 |
+| Bow | Sriwijaya bow | ![alt text](.png) | 1001 |
+| Bow | Traveler bow | ![alt text](.png) | 1002 |
+| Bow | Ender bow | ![alt text](.png) | 1003 |
+| Bow | Magic bow bow | ![alt text](.png) | 1004 |
+| Bow | Overgrown bow | ![alt text](.png) | 1005 |
+| Bow | Ruby bow | ![alt text](.png) | 1006 |
+| Crossbow | Crossbow1 | ![alt text](.png) | 1001 |
+| Crossbow | Crossbow2 | ![alt text](.png) | 1002 |
+| Poisonous potato | Cheese religion | ![alt text](.png) | 1001 |
+| Poisonous potato | Gold coin | ![alt text](.png) | 1002 |
+| Poisonous potato | Iron coin | ![alt text](.png) | 1003 |
 
 &nbsp;
 
