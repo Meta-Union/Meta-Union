@@ -2,7 +2,7 @@ Custom item visuals
 
 Extra info:
 
-All Diamond items that can be upgraded to netherite will keep the exact same skin when upgraded.
+All Diamond items that can be upgraded to netherite will keep the exact same skin when upgraded. (Only exception to this rule is the 3D skin)
 Please report all found bugs to IceX2457 or on the github: https://github.com/IceX2457/Meta-Union-resource-pack
 
 Some of these items are personally requested and added. The explanation on how to get your item added is right beneath this, if you don't need it you can skip over and immidiatly go to the tables beneath the text.\
@@ -23,16 +23,16 @@ Inside, working:
 | Type | Name | Picture | CMD |
 | --- | --- | --- | --- |
 | Wooden sword | Battlestaff | ![alt text](https://imgur.com/0hJY2gO.png) | 1001 |
-| Wooden sword | 3D sword | ![alt text](.png) | 1013 |
+| Wooden sword | 3D sword | ![alt text](https://imgur.com/4Fh7sQ3.png) | 1013 |
 | Stone sword | Battlestaff of Terror | ![alt text](https://imgur.com/9DpMHwO.png) | 1001 |
-| Stone sword | 3D sword | ![alt text](.png) | 1013 |
+| Stone sword | 3D sword | ![alt text](https://imgur.com/jwaaFMP.png) | 1013 |
 | Golden sword | Grave Bane | ![alt text](https://imgur.com/EelRqZh.png) | 1001 |
-| Golden sword | 3D sword | ![alt text](.png) | 1013 |
+| Golden sword | 3D sword | ![alt text](https://imgur.com/Y99g88Y.png) | 1013 |
 | Iron sword | Growing Staff | ![alt text](https://imgur.com/sgHFegu.png) | 1001 |
 | Iron sword | Broken Sawblade | ![alt text](https://imgur.com/TzEDMKE.png) | 1002 |
 | Iron sword | Bloody Vengeance | ![alt text](https://imgur.com/qHe0Tdv.png) | 1003 |
 | Iron sword | Wide handle Blade | ![alt text](https://imgur.com/IshPVF0.png) | 1004 |
-| Iron sword | 3D sword | ![alt text](.png) | 1013 |
+| Iron sword | 3D sword | ![alt text](https://imgur.com/AyPs71N.png) | 1013 |
 | Diamond sword | W1 Sword (personal item) | ![alt text](https://imgur.com/pv9MS1K.png) | 1001 |
 | Diamond sword | Backstabber | ![alt text](https://imgur.com/A15cQvb.png) | 1002 |
 | Diamond sword | Swift Striker | ![alt text](https://imgur.com/S0rwQOL.png) | 1003 |
@@ -45,7 +45,8 @@ Inside, working:
 | Diamond sword | The Starless Night | ![alt text](https://imgur.com/T8PkKje.png) | 1010 |
 | Diamond sword | Venom Glaive | ![alt text](https://imgur.com/NPaLE8T.png) | 1011 |
 | Diamond sword | Sinister Sword | ![alt text](https://imgur.com/Zn9RqxU.png) | 1012 |
-| Diamond sword | 3D sword | ![alt text](.png) | 1013 |
+| Diamond sword | 3D sword | ![alt text](https://imgur.com/yzRPUi5.png) | 1013 |
+| Netherite sword | 3D sword | ![alt text](https://imgur.com/UGXKZ40.png) | 1013 |
 | Diamond sword | Amethyst sword | ![alt text](.png) | 1014 |
 | Diamond sword | Sword of Honour | ![alt text](.png) | 1015 |
 | Diamond sword | Blaze sword | ![alt text](.png) | 1016 |
@@ -125,17 +126,17 @@ Inside, working:
 | Fishing rod | Diamond Reinforced Rod | ![alt text](https://imgur.com/j7NLB1a.png) | 1011 |
 | Fishing rod | Blaze Rod | ![alt text](https://imgur.com/lUCyHn3.png) | 1012 |
 | Fishing rod | Celestial Rod | ![alt text](https://imgur.com/agLiHY6.png) | 1013 |
-| Bow | Sriwijaya bow | ![alt text](.png) | 1001 |
-| Bow | Traveler bow | ![alt text](.png) | 1002 |
-| Bow | Ender bow | ![alt text](.png) | 1003 |
-| Bow | Magic bow bow | ![alt text](.png) | 1004 |
-| Bow | Overgrown bow | ![alt text](.png) | 1005 |
-| Bow | Ruby bow | ![alt text](.png) | 1006 |
-| Crossbow | Crossbow1 | ![alt text](.png) | 1001 |
-| Crossbow | Crossbow2 | ![alt text](.png) | 1002 |
-| Poisonous potato | Cheese religion | ![alt text](.png) | 1001 |
-| Poisonous potato | Gold coin | ![alt text](.png) | 1002 |
-| Poisonous potato | Iron coin | ![alt text](.png) | 1003 |
+| Bow | Sriwijaya bow | ![alt text](https://imgur.com/cpLFkX8.png) | 1001 |
+| Bow | Traveler bow | ![alt text](https://imgur.com/LNnV5IH.png) | 1002 |
+| Bow | Ender bow | ![alt text](https://imgur.com/692zXc4.png) | 1003 |
+| Bow | Magic bow | ![alt text](https://imgur.com/YYnsPHt.png) | 1004 |
+| Bow | Overgrown bow | ![alt text](https://imgur.com/PIbvI3H.png) | 1005 |
+| Bow | Ruby bow | ![alt text](https://imgur.com/O8USQXL.png) | 1006 |
+| Crossbow | Crossbow1 | ![alt text](https://imgur.com/fr93XQV.png) | 1001 |
+| Crossbow | Crossbow2 | ![alt text](https://imgur.com/gVjj6TF.png) | 1002 |
+| Poisonous potato | Cheese religion | ![alt text](https://imgur.com/03hyien.png) | 1001 |
+| Poisonous potato | Gold coin | ![alt text](https://imgur.com/pe6jAul.png) | 1002 |
+| Poisonous potato | Iron coin | ![alt text](https://imgur.com/eLWt0UX.png) | 1003 |
 
 &nbsp;
 
