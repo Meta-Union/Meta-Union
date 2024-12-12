@@ -47,71 +47,71 @@ Inside, working:
 | Diamond sword | Sinister Sword | ![alt text](https://imgur.com/Zn9RqxU.png) | 1012 |
 | Diamond sword | 3D sword | ![alt text](https://imgur.com/yzRPUi5.png) | 1013 |
 | Netherite sword | 3D sword | ![alt text](https://imgur.com/UGXKZ40.png) | 1013 |
-| Diamond sword | Amethyst sword | ![alt text](.png) | 1014 |
-| Diamond sword | Sword of Honour | ![alt text](.png) | 1015 |
-| Diamond sword | Blaze sword | ![alt text](.png) | 1016 |
-| Diamond sword | Bone sword | ![alt text](.png) | 1017 |
-| Diamond sword | Ender sword | ![alt text](.png) | 1018 |
-| Diamond sword | Honey sword | ![alt text](.png) | 1019 |
-| Diamond sword | Ice sword | ![alt text](.png) | 1020 |
-| Diamond sword | Minty sword | ![alt text](.png) | 1021 |
-| Diamond sword | Ruby sword | ![alt text](.png) | 1022 |
-| Diamond sword | Sculk sword | ![alt text](.png) | 1023 |
-| Diamond sword | Skull sword | ![alt text](.png) | 1024 |
-| Diamond sword | Overgrown sword | ![alt text](.png) | 1025 |
-| Diamond sword | Frozen sword | ![alt text](.png) | 1026 |
+| Diamond sword | Amethyst sword | ![alt text](https://imgur.com/TfUAJEg.png) | 1014 |
+| Diamond sword | Sword of Honour | ![alt text](https://imgur.com/mg1aPPZ.png) | 1015 |
+| Diamond sword | Blaze sword | ![alt text](https://imgur.com/tpGaR5z.png) | 1016 |
+| Diamond sword | Bone sword | ![alt text](https://imgur.com/Md2xVIE.png) | 1017 |
+| Diamond sword | Ender sword | ![alt text](https://imgur.com/DvtRpzC.png) | 1018 |
+| Diamond sword | Honey sword | ![alt text](https://imgur.com/gTJ1m3Y.png) | 1019 |
+| Diamond sword | Ice sword | ![alt text](https://imgur.com/fEOE6fE.png) | 1020 |
+| Diamond sword | Minty sword | ![alt text](https://imgur.com/sB0SgG6.png) | 1021 |
+| Diamond sword | Ruby sword | ![alt text](https://imgur.com/CDa8ERj.png) | 1022 |
+| Diamond sword | Sculk sword | ![alt text](https://imgur.com/h6JYZgM.png) | 1023 |
+| Diamond sword | Skull sword | ![alt text](https://imgur.com/M5M37yD.png) | 1024 |
+| Diamond sword | Overgrown sword | ![alt text](https://imgur.com/wcaJ7Iv.png) | 1025 |
+| Diamond sword | Frozen sword | ![alt text](https://imgur.com/5VBRH4g.png) | 1026 |
 | Iron axe | Highland axe | ![alt text](https://imgur.com/KN9oaaY.png) | 1001 |
 | Diamond axe | Firebrand | ![alt text](https://imgur.com/NzjukD8.png) | 1001 |
-| Diamond axe | Amethyst axe | ![alt text](.png) | 1002 |
-| Diamond axe | Axe of Honour | ![alt text](.png) | 1003 |
-| Diamond axe | Blaze axe | ![alt text](.png) | 1004 |
-| Diamond axe | Bone axe | ![alt text](.png) | 1005 |
-| Diamond axe | Ender axe | ![alt text](.png) | 1006 |
-| Diamond axe | Honey axe | ![alt text](.png) | 1007 |
-| Diamond axe | Ice axe | ![alt text](.png) | 1008 |
-| Diamond axe | Minty axe | ![alt text](.png) | 1009 |
-| Diamond axe | Ruby axe | ![alt text](.png) | 1010 |
-| Diamond axe | Sculk axe | ![alt text](.png) | 1011 |
-| Diamond axe | Skull axe | ![alt text](.png) | 1012 |
-| Diamond axe | Overgrown axe | ![alt text](.png) | 1013 |
-| Diamond hoe | Amethyst hoe | ![alt text](.png) | 1001 |
-| Diamond hoe | Blaze hoe | ![alt text](.png) | 1002 |
-| Diamond hoe | Bone hoe | ![alt text](.png) | 1003 |
-| Diamond hoe | Ender hoe | ![alt text](.png) | 1004 |
-| Diamond hoe | Hoe of Honour | ![alt text](.png) | 1005 |
-| Diamond hoe | Honey hoe | ![alt text](.png) | 1006 |
-| Diamond hoe | Ice hoe | ![alt text](.png) | 1007 |
-| Diamond hoe | Minty hoe | ![alt text](.png) | 1008 |
-| Diamond hoe | Overgrown hoe | ![alt text](.png) | 1009 |
-| Diamond hoe | Ruby hoe | ![alt text](.png) | 1010 |
-| Diamond hoe | Sculk hoe | ![alt text](.png) | 1011 |
-| Diamond hoe | Skull hoe | ![alt text](.png) | 1012 |
+| Diamond axe | Amethyst axe | ![alt text](https://imgur.com/GIVoZOL.png) | 1002 |
+| Diamond axe | Axe of Honour | ![alt text](https://imgur.com/i4kH50s.png) | 1003 |
+| Diamond axe | Blaze axe | ![alt text](https://imgur.com/KoDGiuF.png) | 1004 |
+| Diamond axe | Bone axe | ![alt text](https://imgur.com/kJm5e5b.png) | 1005 |
+| Diamond axe | Ender axe | ![alt text](https://imgur.com/DkscZts.png) | 1006 |
+| Diamond axe | Honey axe | ![alt text](https://imgur.com/ll1s2uh.png) | 1007 |
+| Diamond axe | Ice axe | ![alt text](https://imgur.com/J5p5gMq.png) | 1008 |
+| Diamond axe | Minty axe | ![alt text](https://imgur.com/FTOKRaD.png) | 1009 |
+| Diamond axe | Ruby axe | ![alt text](https://imgur.com/L7aDgv6.png) | 1010 |
+| Diamond axe | Sculk axe | ![alt text](https://imgur.com/C23gFvI.png) | 1011 |
+| Diamond axe | Skull axe | ![alt text](https://imgur.com/g3x4iug.png) | 1012 |
+| Diamond axe | Overgrown axe | ![alt text](https://imgur.com/LYcxBWA.png) | 1013 |
+| Diamond hoe | Amethyst hoe | ![alt text](https://imgur.com/IYVji7u.png) | 1001 |
+| Diamond hoe | Blaze hoe | ![alt text](https://imgur.com/ZGZY7n4.png) | 1002 |
+| Diamond hoe | Bone hoe | ![alt text](https://imgur.com/6qGi4a4.png) | 1003 |
+| Diamond hoe | Ender hoe | ![alt text](https://imgur.com/P2arJsZ.png) | 1004 |
+| Diamond hoe | Hoe of Honour | ![alt text](https://imgur.com/sqBMYGY.png) | 1005 |
+| Diamond hoe | Honey hoe | ![alt text](https://imgur.com/PEW7Cma.png) | 1006 |
+| Diamond hoe | Ice hoe | ![alt text](https://imgur.com/Enj4avs.png) | 1007 |
+| Diamond hoe | Minty hoe | ![alt text](https://imgur.com/Kj6UIRK.png) | 1008 |
+| Diamond hoe | Overgrown hoe | ![alt text](https://imgur.com/A3B2mab.png) | 1009 |
+| Diamond hoe | Ruby hoe | ![alt text](https://imgur.com/YeWrqph.png) | 1010 |
+| Diamond hoe | Sculk hoe | ![alt text](https://imgur.com/ME940xx.png) | 1011 |
+| Diamond hoe | Skull hoe | ![alt text](https://imgur.com/INvprSY.png) | 1012 |
 | Golden pickaxe | Encrusted Anchor | ![alt text](https://imgur.com/CvOfjnU.png) | 1001 |
-| Diamond pickaxe | Amethyst pickaxe | ![alt text](.png) | 1001 |
-| Diamond pickaxe | Blaze pickaxe | ![alt text](.png) | 1002 |
-| Diamond pickaxe | Bone pickaxe | ![alt text](.png) | 1003 |
-| Diamond pickaxe | Ender pickaxe | ![alt text](.png) | 1004 |
-| Diamond pickaxe | Pickaxe of Honour | ![alt text](.png) | 1005 |
-| Diamond pickaxe | Honey pickaxe | ![alt text](.png) | 1006 |
-| Diamond pickaxe | Ice pickaxe | ![alt text](.png) | 1007 |
-| Diamond pickaxe | Minty pickaxe | ![alt text](.png) | 1008 |
-| Diamond pickaxe | Overgrown pickaxe | ![alt text](.png) | 1009 |
-| Diamond pickaxe | Ruby pickaxe | ![alt text](.png) | 1010 |
-| Diamond pickaxe | Sculk pickaxe | ![alt text](.png) | 1011 |
-| Diamond pickaxe | Skull pickaxe | ![alt text](.png) | 1012 |
+| Diamond pickaxe | Amethyst pickaxe | ![alt text](https://imgur.com/axmiAo5.png) | 1001 |
+| Diamond pickaxe | Blaze pickaxe | ![alt text](https://imgur.com/GpWOrNU.png) | 1002 |
+| Diamond pickaxe | Bone pickaxe | ![alt text](https://imgur.com/B8LpvYk.png) | 1003 |
+| Diamond pickaxe | Ender pickaxe | ![alt text](https://imgur.com/dxlao9l.png) | 1004 |
+| Diamond pickaxe | Pickaxe of Honour | ![alt text](https://imgur.com/vR10c1M.png) | 1005 |
+| Diamond pickaxe | Honey pickaxe | ![alt text](https://imgur.com/5WnGx5B.png) | 1006 |
+| Diamond pickaxe | Ice pickaxe | ![alt text](https://imgur.com/SyFnWed.png) | 1007 |
+| Diamond pickaxe | Minty pickaxe | ![alt text](https://imgur.com/2R1s8bI.png) | 1008 |
+| Diamond pickaxe | Overgrown pickaxe | ![alt text](https://imgur.com/N8InQkc.png) | 1009 |
+| Diamond pickaxe | Ruby pickaxe | ![alt text](https://imgur.com/MBSCGbG.png) | 1010 |
+| Diamond pickaxe | Sculk pickaxe | ![alt text](https://imgur.com/vNyRBMx.png) | 1011 |
+| Diamond pickaxe | Skull pickaxe | ![alt text](https://imgur.com/ECllXxX.png) | 1012 |
 | Stone shovel | Holy Shovel (personal item) | ![alt text](https://imgur.com/ooFU9iM.png) | 1001 |
-| Diamond shovel | Amethyst shovel | ![alt text](.png) | 1001 |
-| Diamond shovel | Blaze shovel | ![alt text](.png) | 1002 |
-| Diamond shovel | Bone shovel | ![alt text](.png) | 1003 |
-| Diamond shovel | Ender shovel | ![alt text](.png) | 1004 |
-| Diamond shovel | Shovel of Honour | ![alt text](.png) | 1005 |
-| Diamond shovel | Honey shovel | ![alt text](.png) | 1006 |
-| Diamond shovel | Ice shovel | ![alt text](.png) | 1007 |
-| Diamond shovel | Minty shovel | ![alt text](.png) | 1008 |
-| Diamond shovel | Overgrown shovel | ![alt text](.png) | 1009 |
-| Diamond shovel | Ruby shovel | ![alt text](.png) | 1010 |
-| Diamond shovel | Sculk shovel | ![alt text](.png) | 1011 |
-| Diamond shovel | Skull shovel | ![alt text](.png) | 1012 |
+| Diamond shovel | Amethyst shovel | ![alt text](https://imgur.com/tyN133Z.png) | 1001 |
+| Diamond shovel | Blaze shovel | ![alt text](https://imgur.com/uMWVSq7.png) | 1002 |
+| Diamond shovel | Bone shovel | ![alt text](https://imgur.com/1AEmh3X.png) | 1003 |
+| Diamond shovel | Ender shovel | ![alt text](https://imgur.com/vPGVvRx.png) | 1004 |
+| Diamond shovel | Shovel of Honour | ![alt text](https://imgur.com/KzZLsk4.png) | 1005 |
+| Diamond shovel | Honey shovel | ![alt text](https://imgur.com/efRN9sJ.png) | 1006 |
+| Diamond shovel | Ice shovel | ![alt text](https://imgur.com/D3JU5kD.png) | 1007 |
+| Diamond shovel | Minty shovel | ![alt text](https://imgur.com/E8CcNyQ.png) | 1008 |
+| Diamond shovel | Overgrown shovel | ![alt text](https://imgur.com/SJJuoPI.png) | 1009 |
+| Diamond shovel | Ruby shovel | ![alt text](https://imgur.com/02N0eQQ.png) | 1010 |
+| Diamond shovel | Sculk shovel | ![alt text](https://imgur.com/YpmWbQa.png) | 1011 |
+| Diamond shovel | Skull shovel | ![alt text](https://imgur.com/Pn93nXH.png) | 1012 |
 | Stick | Icicle (personal item) | ![alt text](https://imgur.com/Zw1zM80.png) | 1001 |
 | Fishing rod | Steel Rod | ![alt text](https://imgur.com/1Qrdo9K.png) | 1001 |
 | Fishing rod | Ultimate Fishing Rod | ![alt text](https://imgur.com/BInLBZ8.png) | 1002 |
