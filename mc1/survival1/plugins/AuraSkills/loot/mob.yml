@@ -8,14 +8,14 @@ pools:
         mobs: [drowned]
         weight: 1
         amount: 1
-  firebrand:
-    base_chance: 1.0
-    loot:
-      - type: item
-        key: firebrand
-        mobs: [piglin_brute]
-        weight: 1
-        amount: 1
+#  firebrand:
+#    base_chance: 1.0
+#    loot:
+#      - type: item
+#        key: firebrand
+#        mobs: [piglin_brute]
+#        weight: 1
+#        amount: 1
 #  wisdomDiamondChestplate1:
 #    base_chance: 1.0
 #    loot:
