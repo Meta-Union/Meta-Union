@@ -8,7 +8,7 @@ on chat:
       add {_badwordList::2} to {_badwordDisplay::*}
       replace {_badwordList::2} in message with "♥♥♥♥"
   if amount of {_badwordList::*} > 0:
-    send "&fYou can't say &c%{_badwordDisplay::*}% &fon this server. It has been replaced." to player
+    send "&7[<##7a7aff>Swear Block&7] <##dddd63>You can't say &c%{_badwordDisplay::*}% <##dddd63>on this server. It has been replaced." to player
     log "%event-player% tried to say the following words in chat: %{_badwordDisplay::*}%." to "chatfilter.log"
 
 on inventory click:
@@ -19,7 +19,7 @@ on inventory click:
         add {_badwordList::2} to {_badwordDisplay::*}
         cancel the event
   if amount of {_badwordList::*} > 0:
-    send "&fYou can't say &c%{_badwordDisplay::*}% &fon this server. The action has been canceled." to player
+    send "&7[<##7a7aff>Swear Block&7] <##dddd63>You can't say &c%{_badwordDisplay::*}% <##dddd63>on this server. The action has been canceled." to player
     log "%event-player% tried to say the following words in an anvil: %{_badwordDisplay::*}%." to "chatfilter.log"
 
 on command:
@@ -30,7 +30,7 @@ on command:
         add {_badwordList::2} to {_badwordDisplay::*}
         cancel the event
   if amount of {_badwordList::*} > 0:
-    send "&fYou can't say &c%{_badwordDisplay::*}% &fon this server. The action has been canceled." to player
+    send "&7[<##7a7aff>Swear Block&7] <##dddd63>You can't say &c%{_badwordDisplay::*}% <##dddd63>on this server. The action has been canceled." to player
     log "%event-player% tried to say the following words in a command: %{_badwordDisplay::*}%." to "chatfilter.log"
 
 on sign change:
@@ -40,5 +40,5 @@ on sign change:
       add {_badwordList::2} to {_badwordDisplay::*}
       cancel the event
   if amount of {_badwordList::*} > 0:
-    send "&fYou can't say &c%{_badwordDisplay::*}% &fon this server. The action has been canceled." to player
+    send "&7[<##7a7aff>Swear Block&7] <##dddd63>You can't say &c%{_badwordDisplay::*}% <##dddd63>on this server. The action has been canceled." to player
     log "%event-player% tried to say the following words on a sign: %{_badwordDisplay::*}%." to "chatfilter.log"
