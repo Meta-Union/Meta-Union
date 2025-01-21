@@ -7,6 +7,10 @@ The files hosted here are never pulled from the server and only pushed automatic
 
 Website is https://meta-union.com
 
-Minecraft Server is default port (for both Java and Bedrock Edition) on the address "meta-union.com"
+The Meta-Union Minecraft server can be joined by using the IP/domain meta-union.com and the default ports for both Java (25565) and Bedrock Edition (19132, or if that won't work 19133)
 
-*All this GitHub stuff is very new to me, excuse my newbieness 😎*
+
+## Server Resource Pack
+The server resource pack that's used on the Meta-Union Minecraft server can be found [here](https://github.com/IceX2457/Meta-Union-resource-pack/blob/main/Meta-Union%20resource%20pack.zip)
+
+The list of all items within the resource pack can be found [here](https://docs.google.com/spreadsheets/d/1A-0Hgd3P605-LppGctaS4JuaFfx9hfl9amfuaib2Hu4)
