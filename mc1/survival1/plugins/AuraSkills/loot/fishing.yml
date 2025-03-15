@@ -323,5 +323,5 @@ pools:
       weight: 5
       executor: console
       command: ae giveitem {player} fishtrak 1
-      message: "&7You caught a FishTrak, check it out!"
+      message: "&7[<color:#7a7aff>Reward&7] <color:#dddd63>You caught a FishTrak, check it out!"
     override_vanilla_loot: false
