@@ -221,104 +221,104 @@ pools:
       glow: false
       lore: []
       message: ''
-    - type: item
-      key: encrustedAnchor
-      weight: 1
-      amount: 1
-      ignore_below: -1
-      glow: false
-      message: ''
-    - type: item
-      key: searod1
-      weight: 10
-      amount: 1
-      ignore_below: -1
-      glow: false
-      message: ''
-    - type: item
-      key: soulrod1
-      weight: 10
-      amount: 1
-      ignore_below: -1
-      glow: false
-      message: ''
-    - type: item
-      key: rottenrod1
-      weight: 10
-      amount: 1
-      ignore_below: -1
-      glow: false
-      message: ''
-    - type: item
-      key: folasrod1
-      weight: 5
-      amount: 1
-      ignore_below: -1
-      glow: false
-      message: ''
-    - type: item
-      key: skeletalrod1
-      weight: 5
-      amount: 1
-      ignore_below: -1
-      glow: false
-      message: ''
-    - type: item
-      key: matrixrod1
-      weight: 5
-      amount: 1
-      ignore_below: -1
-      glow: false
-      message: ''
-    - type: item
-      key: frostedrod1
-      weight: 5
-      amount: 1
-      ignore_below: -1
-      glow: false
-      message: ''
-    - type: item
-      key: eyeoffishing1
-      weight: 3
-      amount: 1
-      ignore_below: -1
-      glow: false
-      message: ''
-    - type: item
-      key: steelrod1
-      weight: 3
-      amount: 1
-      ignore_below: -1
-      glow: false
-      message: ''
-    - type: item
-      key: blazerod1
-      weight: 3
-      amount: 1
-      ignore_below: -1
-      glow: false
-      message: ''
-    - type: item
-      key: diamondreinforcedrod1
-      weight: 2
-      amount: 1
-      ignore_below: -1
-      glow: false
-      message: ''
-    - type: item
-      key: celestialrod1
-      weight: 2
-      amount: 1
-      ignore_below: -1
-      glow: false
-      message: ''
-    - type: item
-      key: ultimatefishingrod1
-      weight: 2
-      amount: 1
-      ignore_below: -1
-      glow: false
-      message: ''
+    #- type: item
+    #  key: encrustedAnchor
+    #  weight: 1
+    #  amount: 1
+    #  ignore_below: -1
+    #  glow: false
+    #  message: ''
+    #- type: item
+    #  key: searod1
+    #  weight: 10
+    #  amount: 1
+    #  ignore_below: -1
+    #  glow: false
+    #  message: ''
+    #- type: item
+    #  key: soulrod1
+    #  weight: 10
+    #  amount: 1
+    #  ignore_below: -1
+    #  glow: false
+    #  message: ''
+    #- type: item
+    #  key: rottenrod1
+    #  weight: 10
+    #  amount: 1
+    #  ignore_below: -1
+    #  glow: false
+    #  message: ''
+    #- type: item
+    #  key: folasrod1
+    #  weight: 5
+    #  amount: 1
+    #  ignore_below: -1
+    #  glow: false
+    #  message: ''
+    #- type: item
+    #  key: skeletalrod1
+    #  weight: 5
+    #  amount: 1
+    #  ignore_below: -1
+    #  glow: false
+    #  message: ''
+    #- type: item
+    #  key: matrixrod1
+    #  weight: 5
+    #  amount: 1
+    #  ignore_below: -1
+    #  glow: false
+    #  message: ''
+    #- type: item
+    #  key: frostedrod1
+    #  weight: 5
+    #  amount: 1
+    #  ignore_below: -1
+    #  glow: false
+    #  message: ''
+    #- type: item
+    #  key: eyeoffishing1
+    #  weight: 3
+    #  amount: 1
+    #  ignore_below: -1
+    #  glow: false
+    #  message: ''
+    #- type: item
+    #  key: steelrod1
+    #  weight: 3
+    #  amount: 1
+    #  ignore_below: -1
+    #  glow: false
+    #  message: ''
+    #- type: item
+    #  key: blazerod1
+    #  weight: 3
+    #  amount: 1
+    #  ignore_below: -1
+    #  glow: false
+    #  message: ''
+    #- type: item
+    #  key: diamondreinforcedrod1
+    #  weight: 2
+    #  amount: 1
+    #  ignore_below: -1
+    #  glow: false
+    #  message: ''
+    #- type: item
+    #  key: celestialrod1
+    #  weight: 2
+    #  amount: 1
+    #  ignore_below: -1
+    #  glow: false
+    #  message: ''
+    #- type: item
+    #  key: ultimatefishingrod1
+    #  weight: 2
+    #  amount: 1
+    #  ignore_below: -1
+    #  glow: false
+    #  message: ''
     - type: command
       weight: 5
       executor: console
