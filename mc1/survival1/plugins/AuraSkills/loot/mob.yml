@@ -8,6 +8,14 @@ pools:
         mobs: [drowned]
         weight: 1
         amount: 1
+  mobTrakFromMobs:
+    base_chance: 0.1
+    loot:
+      - type: command
+        weight: 1
+        executor: console
+        command: advancedenchantments:ae giveitem {player} mobtrak 1
+        message: "&7[<color:#7a7aff>Reward&7] <color:#dddd63>You caught a MobTrak, check it out!"
 #  firebrand:
 #    base_chance: 1.0
 #    loot:

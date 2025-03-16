@@ -1,5 +1,13 @@
 type: block
 pools:
+  blockTrakFromExcavation:
+    base_chance: 0.001
+    loot:
+      - type: command
+        weight: 1
+        executor: console
+        command: advancedenchantments:ae giveitem {player} blocktrak 1
+        message: "&7[<color:#7a7aff>Reward&7] <color:#dddd63>You caught a BlockTrak, check it out!"
   rare:
     base_chance: 1
     selection_priority: 1

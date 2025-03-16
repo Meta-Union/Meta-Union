@@ -1,2 +1,10 @@
 type: block
-pools: []
+pools:
+  blockTrakFromFarming:
+    base_chance: 0.004
+    loot:
+      - type: command
+        weight: 1
+        executor: console
+        command: advancedenchantments:ae giveitem {player} blocktrak 1
+        message: "&7[<color:#7a7aff>Reward&7] <color:#dddd63>You caught a BlockTrak, check it out!"
