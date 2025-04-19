@@ -2,7 +2,7 @@
 
 This page is mainly used for issues and publishing files of the Meta-Union servers.\
 The files hosted here are never pulled from the server and only pushed automatically. This is only so people can view those files but it's never meant to be edited!\
-[What Folas is currently working on](https://github.com/Meta-Union/Meta-Union/issues?q=is%3Aopen+assignee%3AFolas1337+-label%3Abacklog+-label%3AcurrentlyBlocked)\
+[What Folas is currently working on](https://github.com/Meta-Union/Meta-Union/issues?q=is%3Aopen%20assignee%3AFolas1337%20-label%3Apriority_lowest%20-label%3AcurrentlyBlocked)\
 [What are known bugs](https://github.com/Meta-Union/Meta-Union/labels/bug)
 
 Website is https://meta-union.com
