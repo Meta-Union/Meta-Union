@@ -125,3 +125,7 @@ pools:
       glow: false
       lore: []
       message: ''
+    - type: item
+      material: golden_sword
+      custom_model_data: 1013
+      weight: 50

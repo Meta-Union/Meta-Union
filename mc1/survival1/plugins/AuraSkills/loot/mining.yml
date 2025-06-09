@@ -8,35 +8,10 @@ pools:
         executor: console
         command: advancedenchantments:ae giveitem {player} blocktrak 1
         message: "&7[<color:#7a7aff>Reward&7] <color:#dddd63>You caught a BlockTrak, check it out!"
-#  toughnessdiamondhelmet1:
-#    base_chance: 0.1
-#    loot:
-#      - type: item
-#        key: toughnessdiamondhelmet1
-#        sources: [redstone_ore, deepslate_redstone_ore]
-#        weight: 1
-#        amount: 1
-#  toughnessdiamondchestplate1:
-#    base_chance: 0.3
-#    loot:
-#      - type: item
-#        key: toughnessdiamondchestplate1
-#        sources: [nether_gold_ore]
-#        weight: 1
-#        amount: 1
-#  toughnessdiamondleggings1:
-#    base_chance: 0.2
-#    loot:
-#      - type: item
-#        key: toughnessdiamondleggings1
-#        sources: [gold_ore, deepslate_gold_ore]
-#        weight: 1
-#        amount: 1
-#  toughnessdiamondboots1:
-#    base_chance: 10.0
-#    loot:
-#      - type: item
-#        key: toughnessdiamondboots1
-#        sources: [emerald_ore, deepslate_emerald_ore]
-#        weight: 1
-#        amount: 1
+  pool1:
+    base_chance: 0.1
+    loot:
+    - type: item
+      material: iron_sword
+      custom_model_data: 1013
+      weight: 1000
