@@ -109,3 +109,19 @@ pools:
       glow: false
       lore: []
       message: ''
+    - type: item
+      material: torchflower_seeds
+      weight: 10
+      amount: 1
+      ignore_below: -1
+      glow: false
+      lore: []
+      message: ''
+    - type: item
+      material: pitcher_pod
+      weight: 10
+      amount: 1
+      ignore_below: -1
+      glow: false
+      lore: []
+      message: ''
