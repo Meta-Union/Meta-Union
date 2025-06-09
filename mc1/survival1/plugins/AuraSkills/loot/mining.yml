@@ -15,3 +15,10 @@ pools:
       material: iron_sword
       custom_model_data: 1013
       weight: 1000
+    - type: item
+      material: iron_sword
+      custom_model_data: 1002
+      weight: 1000
+      sources:
+      - iron_ore
+      - deepslate_iron_ore
