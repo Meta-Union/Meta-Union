@@ -9,7 +9,7 @@ pools:
         command: advancedenchantments:ae giveitem {player} blocktrak 1
         message: "&7[<color:#7a7aff>Reward&7] <color:#dddd63>You caught a BlockTrak, check it out!"
   pool1:
-    base_chance: 0.02
+    base_chance: 0.01
     loot:
     - type: item
       material: iron_sword
